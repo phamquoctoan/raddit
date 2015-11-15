@@ -167,7 +167,7 @@ GEM
       sprockets-rails (>= 2.0, < 4.0)
 
 PLATFORMS
-  x86-mingw32
+  x86-mswin32
 
 DEPENDENCIES
   acts_as_votable (~> 0.10.0)
