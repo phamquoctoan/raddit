@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.1.5'
 
+gem 'coffee-script-source', '1.8.0'
 gem 'rails', '4.2.2'
 gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
