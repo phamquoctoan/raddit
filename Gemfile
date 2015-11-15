@@ -17,3 +17,4 @@ group :development, :test do
 end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise', '~> 3.5', '>= 3.5.2'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
